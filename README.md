@@ -1,3 +1,4 @@
+
 # buttonBoard - A multipurpose ESP32 powered IOT/Smart Home button PCB
 
 The ButtonBoard PCB is my attempt to kill several birds with one stone. On the one hand, I’ve always been looking for a universal and easy-to-program remote control for the often very individual control options in my smart home. On the other hand, I wanted to have a simple way of equipping my projects (for example the  **_[pxlBlck project](https://nerdiy.de/en/pxlblck/)_**) with a physical operating option.
@@ -21,3 +22,7 @@ All third-party trademarks are the property of their respective owners. More inf
 ### License
 Unless otherwise stated, all works presented here and on Nerdiy.de that are not based on software/code are subject to the CC BY-NC-SA 4.0 license (attribution - non-commercial - dissemination under the same conditions 4.0 international).
 You can find additional infos here: https://nerdiy.de/en/lizenz/
+
+### Other links
+
+ - Alternative housing by "Cover1987": https://www.thingiverse.com/thing:5166026
